@@ -1,2 +1,2 @@
-# Codigos-em-c
- Minhas atividades realizadas em Linguagem C
+# Codigos em C
+ Minhas atividades realizadas em Linguagem C na faculdade de Engenharia de Software
